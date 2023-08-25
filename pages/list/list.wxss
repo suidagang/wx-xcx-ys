@@ -1,0 +1,12 @@
+/* pages/list/list.wxss */
+.list-box{
+  width: 100%;
+  box-sizing: border-box;
+}
+.nav-bar-title{
+  color: #ffffff!important;
+}
+/* 外部样式类修改 */
+.haha---- .van-nav-bar__title{
+  font-size: 30rpx;
+}

@@ -1,0 +1,11 @@
+<van-nav-bar
+  title="home Care"
+  custom-style="background:#31655f;"
+  bind:click-left="onClickLeft"
+  title-class="nav-bar-title"
+  custom-class="haha----"
+/>
+<view class="list-box">
+  <view>精品文章</view>
+  
+</view>

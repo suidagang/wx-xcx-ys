@@ -1,0 +1,9 @@
+/**app.wxss**/
+view{
+  font-size: 28rpx;
+}
+page{
+  background-color: #31655f;
+  font-size: 28rpx;
+  color: #fff;
+}

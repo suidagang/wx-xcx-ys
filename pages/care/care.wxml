@@ -1,0 +1,17 @@
+<view>
+  <van-search
+  value="{{ value }}"
+  background="#31655f"
+  label="中国 |"
+  placeholder="在此搜索"
+  right-icon="search"
+  use-left-icon-slot='false'
+  bind:change="onChange"
+  bind:search="onSearch"
+  field-class="sui-search"
+  custom-class="search-box"
+  clear-icon='false'
+  >
+    <!-- <view slot="action" bind:tap="onClick">搜索</view> -->
+  </van-search>
+</view>
